@@ -13,7 +13,6 @@
 - [Install](#install)
 - [Documentation](#documentation)
 - [License](#license)
-- [Contribution guidelines](#contribution guidelines)
 
 ## Install
 
