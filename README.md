@@ -2,9 +2,9 @@
 
 
 [![GitHub issues](https://img.shields.io/github/issues/Samwel24/affair.svg)](https://github.com/Samwel24/affair/issues)
-[![license](https://img.shields.io/github/forks/Samwel24/affair.svg)](LICENSE.md)
+[![license](https://img.shields.io/github/license/Samwel24/affair.svg)](LICENSE.md)
 [![GitHub forks](https://img.shields.io/github/forks/Samwel24/affair.svg)](https://github.com/Samwel24/affair/network)
-[![GitHub stars](https://img.shields.io/github/forks/Samwel24/affair.svg)](https://github.com/Samwel24/affair/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Samwel24/affair.svg)](https://github.com/Samwel24/affair/stargazers)
 
 
 
