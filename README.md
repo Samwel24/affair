@@ -40,7 +40,7 @@ This method is used to retrieve items from a session
 
 This returns all session saved
 
-To start a session, all you have to do is 
+To start a session, all you have to do is instantiate a new affair class
 
 ``` $affair = new Affair;```
 This will start a session
