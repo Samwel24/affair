@@ -1,0 +1,50 @@
+{
+    "name": "dreamaker/affair",
+
+    "description": "this works exactly like sessions, it will help you perform save items in session and retrieve them",
+
+    "type": "library",
+
+    "license": "MIT",
+
+    "authors": [
+
+        {
+
+            "name": "Samuel Ezedi",
+
+            "email": "hello@samuelezedi.com"
+
+        }
+
+    ],
+
+    "minimum-stability": "dev",
+
+    "require": {},
+
+    "autoload": {
+
+        "psr-4": {
+
+            "Dreamaker\\Affair\\": "src/"
+
+        },
+        "classmap": [
+            "functions"
+        ]
+
+    },
+
+    "extra": {
+
+        "laravel": {
+
+            "providers": [
+
+                "Dreamaker\\Affair\\AffairServiceProvider"
+
+            ]
+        }
+    }
+}
