@@ -23,31 +23,32 @@ if you do not have composer you could just clone this repo
 
 after download 
 
-Then include or into your project directory and put this at the top of you class or file ```php use Dreamaker\Affair\Affair;```
+Then include or into your project directory and put this at the top of you class or file 
+``` use Dreamaker\Affair\Affair;```
 
 ## Documentation
 
-```php Affair::put($key, $value)```
+``` Affair::put($key, $value)```
 
 This method is used to save items into the session, but adding a key and value
 
-```php Affair::get($key)```
+``` Affair::get($key)```
 
 This method is used to retrieve items from a session
 
-```php Affair::all()```
+``` Affair::all()```
 
 This returns all session saved
 
 To start a session, all you have to do is 
 
-```php $affair = new Affair;```
+``` $affair = new Affair;```
 This will start a session
 
-```php Affair::destroy()```
+``` Affair::destroy()```
 This will destroy all session variables in existence
 
-```php Affair::exists($key)```
+``` Affair::exists($key)```
 This will return true if the session exists with the $key parameter passed into it otherwise false
 
 ## License
